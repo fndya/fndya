@@ -12,6 +12,8 @@ I'm currently studying Applied Informatics while gaining commercial experience a
 
 ### 🍔 Stellar Burgers
 
+<img src="https://raw.githubusercontent.com/fndya/stellar-burgers/main/screenshots/main.png" width="900">
+
 Production-like burger ordering application built with React and TypeScript.
 
 **Tech Stack**
