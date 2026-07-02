@@ -12,7 +12,26 @@ I'm currently studying Applied Informatics while gaining commercial experience a
 
 ### 🍔 Stellar Burgers
 
-<img src="https://raw.githubusercontent.com/fndya/stellar-burgers/main/screenshots/main.png" width="900">
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/fndya/stellar-burgers/main/screenshots/main.png">
+            <br><b>Main Page</b>
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/fndya/stellar-burgers/main/screenshots/register.png">
+            <br><b>Registration</b>
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/fndya/stellar-burgers/main/screenshots/orderhistory.png">
+            <br><b>Order History</b>
+        </td>
+        <td align="center">
+              <img src="https://raw.githubusercontent.com/fndya/stellar-burgers/main/screenshots/feed.png">
+              <br><b>Order Feed</b>
+          </td>
+    </tr>
+</table>
 
 Production-like burger ordering application built with React and TypeScript.
 
