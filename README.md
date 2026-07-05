@@ -82,6 +82,8 @@ React • TypeScript • Redux Toolkit • NestJS • PostgreSQL • Docker • 
             <br><b>Offer Details</b>
         </td>
     </tr>
+</table>
+<table>    
     <tr>
         <td align="center">
             <img src="./screenshots/skillswap/reg3.png" width="320">
