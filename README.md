@@ -71,6 +71,33 @@ React • TypeScript • Redux Toolkit • NestJS • PostgreSQL • Docker • 
 
 ## 🤝 SkillSwap
 
+<table>
+    <tr>
+        <td align="center">
+            <img src="./screenshots/skillswap/home.png" width="500">
+            <br><b>Home Page</b>
+        </td>
+        <td align="center">
+            <img src="./screenshots/skillswap/offer-details.png" width="500">
+            <br><b>Offer Details</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="./screenshots/skillswap/reg3.png" width="320">
+            <br><b>Registration</b>
+        </td>
+        <td align="center">
+            <img src="./screenshots/skillswap/reg4.png" width="320">
+            <br><b>Create Offer</b>
+        </td>
+        <td align="center">
+            <img src="./screenshots/skillswap/reg5.png" width="320">
+            <br><b>Offer Preview</b>
+        </td>
+    </tr>
+</table>
+
 Team project for sharing knowledge and skills between users.
 
 **Tech Stack**
