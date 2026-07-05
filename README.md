@@ -88,6 +88,8 @@ React • TypeScript • Feature-Sliced Design • React Hook Form
 
 ## 🎵 VK Music Transfer Extension
 
+<img src="https://raw.githubusercontent.com/fndya/vk-music-importer/main.png" width="400">
+
 Chrome Extension for transferring music libraries into VK Music.
 
 **Tech Stack**
@@ -102,6 +104,8 @@ TypeScript • JavaScript • Chrome Extensions API • DOM API
 - MutationObserver
 - Persistent state
 - Overlay UI
+
+🔗 Repository: https://github.com/fndya/vk-music-importer
 
 ---
 
