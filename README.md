@@ -50,22 +50,17 @@ React • TypeScript • Redux Toolkit • React Router • REST API
 
 ---
 
-## 🎫 Helpdesk System (In Progress)
+### 🖥️ Hosting Provider
 
-Fullstack helpdesk platform inspired by Jira Service Management and Zendesk.
+A full-stack hosting platform built with **Django, DRF, React and TypeScript**, featuring authentication, role-based access control, tariffs, cart, orders, server provisioning, Redis/Celery background tasks and an administrative panel.
 
-**Tech Stack**
+**Tech Stack:** 
+Python · Django · DRF · React · TypeScript · Redis · Celery · SQLite
 
-React • TypeScript • Redux Toolkit • NestJS • PostgreSQL • Docker
+**Key features:** 
+Authentication & RBAC · REST API · Tariffs · Shopping cart · Orders · Balance · Demo provisioning · Admin panel · Background tasks · PDF generation · Import/export · Change history
 
-**Key Features**
-
-- Ticket management system
-- Role-based access control (RBAC)
-- JWT authentication + Refresh Tokens
-- REST API
-- PostgreSQL database
-- Dockerized application
+🔗 Repository: https://github.com/fndya/webdev_hosting-project
 
 ---
 
@@ -113,28 +108,6 @@ React • TypeScript • Feature-Sliced Design • React Hook Form
 - Feature-Sliced Design architecture
 - Team development using Git Flow
 
----
-
-## 🎵 VK Music Transfer Extension
-
-<img src="https://github.com/fndya/vk-music-importer/raw/main/screenshots/main.png" width="400" align="center">
-
-Chrome Extension for transferring music libraries into VK Music.
-
-**Tech Stack**
-
-TypeScript • JavaScript • Chrome Extensions API • DOM API
-
-**Key Features**
-
-- Manifest V3
-- Chrome Storage API
-- Automatic import
-- MutationObserver
-- Persistent state
-- Overlay UI
-
-🔗 Repository: https://github.com/fndya/vk-music-importer
 
 ---
 
