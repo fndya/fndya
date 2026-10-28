@@ -52,6 +52,8 @@ React • TypeScript • Redux Toolkit • React Router • REST API
 
 ### 🖥️ Hosting Provider
 
+<img src="./screenshots/demo.gif" width="1000px">
+
 A full-stack hosting platform built with **Django, DRF, React and TypeScript**, featuring authentication, role-based access control, tariffs, cart, orders, server provisioning, Redis/Celery background tasks and an administrative panel.
 
 **Tech Stack:** 
